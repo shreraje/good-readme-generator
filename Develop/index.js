@@ -46,7 +46,7 @@ const questions = [
         message: "Please enter your email address!"
     },
     {
-        type: "checkbox",
+        type: "list",
         name: "license",
         message: "What license badge would you like to use?",
         choices: [

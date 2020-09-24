@@ -33,16 +33,16 @@ ${data.test}
 ## License
 ${data.license}
 
-# Contact if you have any questions:
+## How to contact me with any question:
 
-## Questions
+Questions:
 ${data.questions}
 
 Email:
 ${data.email}
 
 GitHub Link:
-${data.github}
+https://github.com/${data.github}
 `;
 }
 
