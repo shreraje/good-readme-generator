@@ -8,12 +8,12 @@ const questions = [
     {
         type: "input",
         name: "title",
-        message: "Please enter the title for your ReadMe!"
+        message: "Please enter the title of your project!"
     },
     {
         type: "input",
         name: "description",
-        message: "Please enter the description for your ReadMe!"   
+        message: "Please enter the description for your project!"
     },
     {
         type: "input",
@@ -23,22 +23,22 @@ const questions = [
     {
         type: "input",
         name: "usage",
-        message: "Please enter the usage detail for your ReadMe project!"
+        message: "Please enter the usage details for your project!"
     },
     {
         type: "input",
         name: "contribution",
-        message: "Who can contribute for the ReadMe project?"
+        message: "Who can contribute for the project?"
     },
     {
         type: "input",
         name: "test",
-        message: "Please enter the test instructions for the ReadMe project!"
+        message: "Please enter the test instructions for the project!"
     },
     {
         type: "input",
         name: "github",
-        message: "Please enter your GitHub URL!"
+        message: "Please enter your GitHub username!"
     },
     {
         type: "input",
@@ -66,29 +66,19 @@ const questions = [
     }
 ]
 
+//Create a function to prompt user questions
 function promptUser() {
     return inquirer.prompt(questions);
 }
 promptUser()
-.then(function(response) {
-    console.log(response);
-    
-    // function to write README file
-    fs.writeFile("ReadMe.md", generateMarkdown(response), function(error) {
-        if (error) {
-            return console.log(error);
-        }
-        console.log(" New ReadMe file created")
+    .then(function (response) {
+        console.log(response);
+
+        // function to write README file
+        fs.writeFile("ReadMe.md", generateMarkdown(response), function (error) {
+            if (error) {
+                return console.log(error);
+            }
+            console.log(" New ReadMe file created")
+        });
     });
-});
-
-// function writeToFile(fileName, data) {
-// }
-
-// // function to initialize program 
-// function init() {
-
-// }
-
-// // function call to initialize program
-// init();
