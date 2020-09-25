@@ -30,13 +30,12 @@ Enter if you want to add test method or instructions to test your project!
 ## License
 GNU AGPLv3.0
 
-## How to contact me with any question:
+## Contact me if you have any question:
 
-Questions:
+## Questions
 Enter any question you may have in your mind about this project!
 
 Email:
 Enteyour email address here!
-
 GitHub Link:
 https://github.com/Enter your GitHub username here!

@@ -35,14 +35,15 @@ ${data.license}
 
 ## How to contact me with any question:
 
-Questions:
+Question:
 ${data.questions}
 
+## Contact me if you have any question:
 Email:
 ${data.email}
-
 GitHub Link:
 https://github.com/${data.github}
+
 `;
 }
 
