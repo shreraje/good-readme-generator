@@ -6,13 +6,12 @@ This project is to create a command line application that dynamically generates 
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
-* [Screenshot](#usage)
-* [Link](#contribution)
-* [Contact](#test)
+* [Screenshot](#screenshot)
+* [Link](#link)
+* [Contact](#contact)
 
 ## Installation
 To check how this application works, user will have to follow the following steps-
-* Steps:
 - Clone this repo to your local computer.
 - Open a terminal or GitBash, open the folder where the repo was clonned.
 - Run "node index.js" from the command line.
