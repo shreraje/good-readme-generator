@@ -6,9 +6,9 @@ This project is to create a command line application that dynamically generates 
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
-* [Screenshot](#screenshot)
-* [Link](#link)
-* [Contact](#contact)
+* [Screenshot](#usage)
+* [Link](#contribution)
+* [Contact](#test)
 
 ## Installation
 To check how this application works, user will have to follow the following steps-
