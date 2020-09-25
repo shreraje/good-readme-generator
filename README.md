@@ -22,10 +22,10 @@ To check how this application works, user will have to follow the following step
 - Window will prompt and waits for user to answer couple of questions needed to generate a Readme.md file.
 - Last step, after all questions were being answered, app will create new ReadMe.md file along with all the information user typed in.
 
-## Screenshot of newly created ReadMe.md file
+## Screenshot
 <img width="971" alt="Screen Shot of ReadMe file" src="https://user-images.githubusercontent.com/61192734/94226537-b0aa4400-feac-11ea-8af0-dfd6aa8fc870.png">
 
-## Link to the video showing how this app work & GitHub repo:
+## Links
 Recorded video: https://drive.google.com/file/d/1R17CtVDYOxRoGeSI0gH3nxpCCKAPYlEh/view?usp=sharing
 
 GitHub Repo: https://github.com/shreraje/good-readme-generator
@@ -35,10 +35,10 @@ Anyone can contribute!
 
 ## How to contact me with any question:
 
-Question:
+## Questions
 Enter any question you may have about this project here!
 
-## Contact me if you have any question:
+## Contacts
 
 Email:
 rajendrashr@gmail.com
