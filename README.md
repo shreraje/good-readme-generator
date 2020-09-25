@@ -1,7 +1,4 @@
 # Good README Generator
-
-<img src="https://img.shields.io/badge/License-Apache License v2.0-blue.svg" alt="License image of Apache License v2.0" />
-  
   
 ## Description
 This project is to create a command line application that dynamically generates a readme.md file according to user's input after couple of prompts of questions so that user could work more time on project than spending more time in creating a good readme file.
@@ -26,6 +23,7 @@ To check how this application works, user will have to follow the following step
 
 ## Screenshot of newly created ReadMe.md file:
 
+<img width="971" alt="Screen Shot of ReadMe file" src="https://user-images.githubusercontent.com/61192734/94226537-b0aa4400-feac-11ea-8af0-dfd6aa8fc870.png">
 
 ## Contact Me if you have any question:
 Email:
