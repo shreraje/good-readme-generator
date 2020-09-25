@@ -1,10 +1,10 @@
-# Readme
+# Enter your project tile here!
 
-<img src="https://img.shields.io/badge/License-Apache License v2.0-blue.svg" alt="License image of Apache License v2.0" />
+<img src="https://img.shields.io/badge/License-GNU AGPLv3.0-blue.svg" alt="License image of GNU AGPLv3.0" />
   
   
 ## Description
-
+Enter your project description here!
 
 ## Table of Contents
 * [Description](#description)
@@ -13,30 +13,30 @@
 * [Contribution](#contribution)
 * [Test](#test)
 * [License](#license)
-* [Any Question](#questions)
+* [Questions](#questions)
 
 ## Installation
-
+Enter the steps or instruction how your project can be installed!
 
 ## Usage
-
+Enter the usage detail of your project here!
 
 ## Contribution
-asdfas
+Enter or specify who can contribute to your project!
 
 ## Test
-asdf
+Enter if you want to add test method or instructions to test your project!
 
 ## License
-Apache License v2.0
+GNU AGPLv3.0
 
-## Contact if you have any questions:
+## How to contact me with any question:
 
-## Questions
-fdasdf
+Questions:
+Enter any question you may have in your mind about this project!
 
 Email:
-asdf
+Enteyour email address here!
 
 GitHub Link:
-https://github.com/asdf
+https://github.com/Enter your GitHub username here!
