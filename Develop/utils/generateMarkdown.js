@@ -14,12 +14,21 @@ ${data.description}
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contribution](#contribution)
+* [Screenshot](#screenshot)
+* [Links](#links)
+* [Contacts](#contacts)
 * [Test](#test)
 * [License](#license)
 * [Questions](#questions)
 
 ## Installation
 ${data.installation}
+
+##Screenshot of newly created ReadMe.md file
+${data.screenshot}
+
+## Link to the video showing how this app work & GitHub repo:
+${data.links}
 
 ## Usage
 ${data.usage}
@@ -39,8 +48,10 @@ Question:
 ${data.questions}
 
 ## Contact me if you have any question:
+${data.contacts}
 Email:
 ${data.email}
+
 GitHub Link:
 https://github.com/${data.github}
 
