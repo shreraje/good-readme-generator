@@ -6,7 +6,7 @@ This project is to create a command line application that dynamically generates 
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
-* [Usage](#usage)
+* [Screenshot](#Screenshot of newly created ReadMe.md file:)
 * [Contribution](#contribution)
 * [Test](#test)
 * [License](#license)
