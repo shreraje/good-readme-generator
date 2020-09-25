@@ -33,8 +33,6 @@ GitHub Repo: https://github.com/shreraje/good-readme-generator
 ## Contribution
 Anyone can contribute!
 
-## How to contact me with any question:
-
 ## Questions
 Enter any question you may have about this project here!
 
