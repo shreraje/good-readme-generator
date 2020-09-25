@@ -8,13 +8,10 @@ This project is to create a command line application that dynamically generates 
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
-* [Usage](#usage)
 * [Contribution](#contribution)
 * [Screenshot](#screenshot)
 * [Links](#links)
 * [Contacts](#contacts)
-* [Test](#test)
-* [License](#license)
 * [Questions](#questions)
 
 ## Installation
@@ -33,17 +30,8 @@ Recorded video: https://drive.google.com/file/d/1R17CtVDYOxRoGeSI0gH3nxpCCKAPYlE
 
 GitHub Repo: https://github.com/shreraje/good-readme-generator
 
-## Usage
-Enter the usage details for your project here!
-
 ## Contribution
 Anyone can contribute!
-
-## Test
-Enter any application test instructions you may have!
-
-## License
-GNU AGPLv3.0
 
 ## How to contact me with any question:
 
