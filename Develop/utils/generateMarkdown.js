@@ -16,7 +16,7 @@ ${data.description}
 * [Contribution](#contribution)
 * [Test](#test)
 * [License](#license)
-* [Any Question](#questions)
+* [Questions](#questions)
 
 ## Installation
 ${data.installation}
