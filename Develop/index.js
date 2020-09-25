@@ -46,6 +46,21 @@ const questions = [
         message: "Please enter your email address!"
     },
     {
+        type: "input",
+        name: "screenshot",
+        message: "Please attach your application screenshot!"
+    },
+    {
+        type: "input",
+        name: "links",
+        message: "Please enter your deployed application & GitHub repo links!"
+    },
+    {
+        type: "input",
+        name: "contacts",
+        message: "Please enter your contacts!"
+    },
+    {
         type: "list",
         name: "license",
         message: "What license badge would you like to use?",
