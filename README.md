@@ -18,6 +18,7 @@ This project is to create a command line application that dynamically generates 
 To check how this application works, user will have to follow the following steps-
 - Clone this repo to your local computer.
 - Open a terminal or GitBash, open the folder where the repo was clonned.
+- Run 'npm install' to install the dev dependencies.
 - Run "node index.js" from the command line.
 - Window will prompt and waits for user to answer couple of questions needed to generate a Readme.md file.
 - Last step, after all questions were being answered, app will create new ReadMe.md file along with all the information user typed in.
